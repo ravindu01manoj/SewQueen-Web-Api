@@ -1,19 +1,12 @@
 {
   "name": "@ravindu01manoj/sew-queen-web",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "WhatsApp Web API",
   "homepage": "https://github.com/ravindu01manoj/Sew-Queen",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "keywords": [
-    "whatsapp",
-    "js-whatsapp",
-    "whatsapp-api",
-    "whatsapp-web",
-    "whatsapp",
-    "whatsapp-chat",
-    "whatsapp-group",
-    "automation"
+    "whatsapp-web-api"
   ],
   "scripts": {
   "test": "mocha --timeout 240000 -r ts-node/register src/Tests/Tests.*.ts",

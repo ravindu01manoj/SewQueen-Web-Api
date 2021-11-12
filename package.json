@@ -1,6 +1,6 @@
 {
-  "name": "@ravindu01manoj/web-sew",
-  "version": "1.0.2",
+  "name": "@ravindu01manoj/sew-queen-web",
+  "version": "1.0.0",
   "description": "WhatsApp Web API",
   "homepage": "https://github.com/ravindu01manoj/Sew-Queen",
   "main": "lib/index.js",

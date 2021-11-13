@@ -1,5 +1,4 @@
-#            sew-queen-web 
-Typescript/Javascript WhatsApp Web API ( Cloned Version Of adiwajshing/baileys)
+sew-queen-web  Typescript/Javascript WhatsApp Web API
 
 Install ==>
 
@@ -8,6 +7,11 @@ Install ==>
 
 
 
-Another All Usage ==>  [adiwajshing/baileys](github.com/adiwajshing/baileys.git)
+How To Use
+
+Check [adiwajshing/baileys](github.com/adiwajshing/baileys.git)
+
+Data
+
 
 Fully Scoped on [Adiwajshing/baileys](github.com/adiwajshing/baileys.git)

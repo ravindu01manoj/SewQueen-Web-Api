@@ -11,9 +11,9 @@
 
 ## How To Use
 
-Check [adiwajshing/baileys](github.com/adiwajshing/baileys.git)
+Check [adiwajshing/baileys](https://github.com/adiwajshing/Baileys/blob/master/README.md)
 
 
 ## Data
 
-Fully Scoped on [Adiwajshing/baileys](github.com/adiwajshing/baileys.git)
+Fully Scoped on [Adiwajshing/baileys](https://github.com/adiwajshing/Baileys/blob/master/README.md)

@@ -17,3 +17,7 @@ Check [adiwajshing/baileys](https://github.com/adiwajshing/Baileys/blob/master/R
 ## Data
 
 Fully Scoped on [Adiwajshing/baileys](https://github.com/adiwajshing/Baileys/blob/master/README.md)
+
+***
+
+<div align="center"><img src="https://profile-counter.glitch.me/ravindu01manoj/count.svg" /><br>Profile Viewers</div>
